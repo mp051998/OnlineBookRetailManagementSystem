@@ -1,5 +1,4 @@
 # OnlineBookRetailManagementSystem
-Sem 5 Project for the Computer Networks Course
 
 Coded in Python using Sockets and Tkinter mainly.
 Works fine without many bugs.
